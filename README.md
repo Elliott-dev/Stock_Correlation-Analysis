@@ -2,7 +2,7 @@
 
 # Stock Correlation 
 
-In this Notebook, lI analyze the following five semiconductor stocks: `HD`, `INTC`, `AMD`, `MU`, `NVDA`, and `TSM`. Then, Ichoose the stock with the least correlation to `JNJ` in order to diversify a portfolio. The data was generated using the [GOOGLEFINANCE](https://support.google.com/docs/answer/3093281?hl=en) historical market data script.
+In this Notebook, lI analyze the following five semiconductor stocks: `HD`, `INTC`, `AMD`, `MU`, `NVDA`, and `TSM`. Then, I choose the stock with the least correlation to `JNJ` in order to diversify a portfolio. The data was generated using the [GOOGLEFINANCE](https://support.google.com/docs/answer/3093281?hl=en) historical market data script.
 
 To learn more about diversification and how correlation in a portfolio helps to minimize risk, review this [article on diversification](https://www.investopedia.com/terms/d/diversification.asp).
 
