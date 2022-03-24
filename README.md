@@ -20,6 +20,6 @@ To learn more about diversification and how correlation in a portfolio helps to 
 
 6. Created a heatmap using the correlation matrix. 
 
-7. Useed the `unstack` function to find the best stock pair for diversification.
+7. Used the `unstack` function to find the best stock pair for diversification.
 
 8. Last, I explain which semiconductor stock would be the best candidate to add to the existing portfolio and why.
